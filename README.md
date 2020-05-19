@@ -52,7 +52,7 @@ nginx_ip = 139.178.89.181
 | project_id | string | n/a | Packet Project ID |
 | facility | string | sjc1 | Packet  Facility  to  deploy  into |
 | plan | string | c3.medium.x86 | Packet  device  type  to  deploy |
-| operating_system | string | ubuntu_18_04 | The  Operating  system  of  the  node |
+| operating_system | string | centos_8 | The  Operating  system  of  the  node |
 | billing_cycle | string | hourly | How  the  node  will  be  billed (Not  usually  changed) |
 
 Enjoy!
